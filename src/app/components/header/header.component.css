@@ -3,5 +3,9 @@ div{
 }
 app-social{
     float: right;
-    margin-top: 25px;    
+    margin-top: 35px;    
+    margin-right: 25px;
+}
+app-logo-ap{
+    margin-left: 20px;
 }
