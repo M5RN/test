@@ -1,21 +1,23 @@
+.row{
+    padding:20px;
+}
 div{
-    background-color: rgb(54, 54, 54);
+    background: rgb(0, 0, 0);
+    color: rgb(109, 107, 107); 
+}
+h1, h3{
+    display: inline;
+}
+#dataca{
+    color: rgb(109, 107, 107); 
     -webkit-transition: all 0.7s;
     -moz-transition: all 0.7s;
     -ms-transition: all 0.7s;
     -o-transition: all 0.7s;
     -transition: all 0.7s;
 }
-app-social{
-    float: right;
-    margin-top: 35px;    
-    margin-right: 20px;
-}
-app-logo-ap{
-    margin-left: 20px;
-}
-div:hover{
-    background-color: RGB(32,59,147);
+#dataca:hover{
+    color: rgb(15, 170, 218);
     -webkit-transition: all 0.7s;
     -moz-transition: all 0.7s;
     -ms-transition: all 0.7s;

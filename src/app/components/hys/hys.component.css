@@ -1,24 +1,23 @@
-div{
-    background-color: rgb(54, 54, 54);
+.row{
+    background: rgb(54, 54, 54);
+    padding: 10px;
+    -webkit-transition: all 0.7s;
+    -moz-transition: all 0.7s;
+    -ms-transition: all 0.7s;
+    -o-transition: all 0.7s;
+    -transition: all 0.7s;
+    
+}
+.row:hover{
+    background: rgb(32, 59, 148);
+    padding: 10px;
     -webkit-transition: all 0.7s;
     -moz-transition: all 0.7s;
     -ms-transition: all 0.7s;
     -o-transition: all 0.7s;
     -transition: all 0.7s;
 }
-app-social{
-    float: right;
-    margin-top: 35px;    
-    margin-right: 20px;
-}
-app-logo-ap{
-    margin-left: 20px;
-}
-div:hover{
-    background-color: RGB(32,59,147);
-    -webkit-transition: all 0.7s;
-    -moz-transition: all 0.7s;
-    -ms-transition: all 0.7s;
-    -o-transition: all 0.7s;
-    -transition: all 0.7s;
+#graficos{
+    color: white;
+    margin-top: 20px;    
 }

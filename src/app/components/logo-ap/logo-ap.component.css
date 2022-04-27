@@ -1,3 +1,88 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 #logoAP{
     width: 150px;
+}
+#parte1{
+    color: white;
+}
+img{
+    width: 30px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -transition: all 0.3s;
+}
+img:hover{
+    width: 35px;    
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -transition: all 0.3s;
+}
+#github{
+    margin-right: 10px;
+    margin-top: -5px;
+    align-items: center;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -transition: all 0.3s;
+}
+#github:hover{
+    margin-right: 10px;
+    margin-top: -10px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -transition: all 0.3s;
+}
+#linkedin{
+    margin-right: 10px;
+    margin-top: -5px;
+    margin-right: 10px;
+    margin-top: -5px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -transition: all 0.3s;
+}
+#linkedin:hover{
+    margin-right: 10px;
+    margin-top: -10px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -transition: all 0.3s;
+}
+#instagram{
+    margin-top: -5px;
+    margin-right: 10px;
+    margin-top: -5px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -transition: all 0.3s;
+}
+#instagram:hover{
+    margin-right: 10px;
+    margin-top: -10px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -transition: all 0.3s;
+}
+.redes{
+    margin-right: 1.5em;
 }
